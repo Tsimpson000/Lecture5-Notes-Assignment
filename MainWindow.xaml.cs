@@ -20,9 +20,43 @@ namespace Lecture5_Notes_Assignment
     /// </summary>
     public partial class MainWindow : Window
     {
+        
         public MainWindow()
         {
+            
             InitializeComponent();
+
+            //Make new instance by referencing object in class, like movie. Keyword new to create new object in memory
+            Movie waynesWorld = new Movie();
+
+            //access members of an object by using . aka dot
+            waynesWorld.MovieName = "Wayne's World";
+            waynesWorld.Rating = 5;
+            waynesWorld.Director = "Penelope Spheeris";
+            waynesWorld.Year = 1992;
+
+            Movie waynesWorld2 = new Movie();
+
+            waynesWorld2.MovieName = "Wayne's World 2";
+            waynesWorld2.Rating = 5;
+            waynesWorld2.Director = "Stephen Surjik";
+            waynesWorld2.Year = 1993;
+
+
+            //creating new instance of student object using constructor
+            Student student = new Student("Tyler", "Simpson", 100, 100);
+            Student student2 = new Student("Shiva", "Fluffy");
+
+
+
+            Venue venue1 = new Venue("Motor", 2500.00m, 300, "98056");
+            Venue venue2 = new Venue("Citadel", 1300.00m, 200, "98178");
+
+           
+        }
+        public string FormattedStudent();
+        {
+            string studentInfo = student.FirstName + " " + student.LastName + " - " + student.CSIGrade + " " + student.GenEdGrade;
         }
     }
 }
