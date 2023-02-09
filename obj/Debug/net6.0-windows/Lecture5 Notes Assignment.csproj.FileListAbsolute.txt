@@ -1,0 +1,21 @@
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\bin\Debug\net6.0-windows\Lecture5 Notes Assignment.exe
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\bin\Debug\net6.0-windows\Lecture5 Notes Assignment.deps.json
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\bin\Debug\net6.0-windows\Lecture5 Notes Assignment.runtimeconfig.json
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\bin\Debug\net6.0-windows\Lecture5 Notes Assignment.dll
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\bin\Debug\net6.0-windows\Lecture5 Notes Assignment.pdb
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.csproj.AssemblyReference.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment_MarkupCompile.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment_MarkupCompile.lref
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.g.resources
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.AssemblyInfoInputs.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.AssemblyInfo.cs
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.csproj.CoreCompileInputs.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.dll
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\refint\Lecture5 Notes Assignment.dll
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.pdb
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\Lecture5 Notes Assignment.genruntimeconfig.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\obj\Debug\net6.0-windows\ref\Lecture5 Notes Assignment.dll

@@ -36,7 +36,6 @@ namespace Lecture5_Notes_Assignment
             CSIGrade = -1;
             GenEdGrade = -1;
         }
-        private Student
-            get => 
+        
     }
 }

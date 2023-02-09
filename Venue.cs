@@ -3,34 +3,60 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace Lecture5_Notes_Assignment
 {
     public class Venue
     {
-        //Fields
-        public string VenueName;
-        public decimal VenuePrice;
-        public int VenueCapacity;
-        public string VenueZipCode;
+        string _name;
+        decimal _price;
+        int _capacity;
+        string _zipcode;
 
-        //Constructor to take all information
-        public Venue(string venueName, decimal venuePrice, int venueCapacity, string venueZipCode)
+
+        public Venue(string name, decimal price, int capacity, string zipcode)
         {
-            VenueName = venueName;
-            VenuePrice = venuePrice;
-            VenueCapacity = venueCapacity;
-            VenueZipCode = venueZipCode;
+            _name = name;
+            _price = price;
+            _capacity = capacity;
+            _zipcode = zipcode;
+
         }
-        //property is a mechanism to display information (get/read) or change information (set/write)
-        //define property type, Access Modifier = type of the field - name of the field - no paranthesis
-        //get allows user to READ value
-        //set allows user to WRITE value
-        private string VName
+
+        public string Name
         {
-            //if you only have get, its read only
-            get => VName;
-            set => VName = value;
+            get
+            {
+                return _name;
+            }
+            set
+            {
+                
+                if (value == "")
+                {
+                    MessageBox.Show("Please enter Venue Name");
+                }
+                else
+                {
+                    _name = value;
+                }
+            }
+        }
+        public decimal Price
+        {
+            get => _price;
+            set
+            { 
+            }
+        }
+        public int Capacity
+        {
+            get => _capacity;
+        }
+        public string ZipCode
+        {
+            get => _zipcode;
         }
     }
 }

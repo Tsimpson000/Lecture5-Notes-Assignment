@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Tyler Simpson
+//Lecture 4 Classes
+//2-8-2023
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,7 +24,7 @@ namespace Lecture5_Notes_Assignment
     /// </summary>
     public partial class MainWindow : Window
     {
-        
+        List<Student> students = new List<Student>();
         public MainWindow()
         {
             
@@ -42,21 +46,23 @@ namespace Lecture5_Notes_Assignment
             waynesWorld2.Director = "Stephen Surjik";
             waynesWorld2.Year = 1993;
 
-
+            
             //creating new instance of student object using constructor
-            Student student = new Student("Tyler", "Simpson", 100, 100);
+            Student student1 = new Student("Tyler", "Simpson", 100, 100);
             Student student2 = new Student("Shiva", "Fluffy");
 
-
+            students.Add(student1);
+            students.Add(student2);
 
             Venue venue1 = new Venue("Motor", 2500.00m, 300, "98056");
             Venue venue2 = new Venue("Citadel", 1300.00m, 200, "98178");
 
+            FormattedVenue(venue1);
            
         }
-        public string FormattedStudent();
+        public void FormattedVenue(Venue venue)
         {
-            string studentInfo = student.FirstName + " " + student.LastName + " - " + student.CSIGrade + " " + student.GenEdGrade;
+            MessageBox.Show(venue.Name + " " + venue.Price + " " + venue.Capacity + " " + venue.ZipCode);
         }
     }
 }

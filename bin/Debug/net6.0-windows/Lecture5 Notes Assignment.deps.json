@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lecture5 Notes Assignment/1.0.0": {
+        "runtime": {
+          "Lecture5 Notes Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture5 Notes Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

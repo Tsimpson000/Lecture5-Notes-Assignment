@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lecture5_Notes_Assignment
+build_property.ProjectDir = C:\Users\SHEEVZ\Desktop\School\Quarter 3\CompSci 2\Lecture5 Notes Assignment\

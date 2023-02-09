@@ -6,14 +6,5 @@
         xmlns:local="clr-namespace:Lecture5_Notes_Assignment"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid Background="#FF232222">
-        <RichTextBox Margin="80,55,80,55" RenderTransformOrigin="0.505,0.402">
-            <FlowDocument>
-                <Paragraph>
-                    <Run x:Name="displayList"/>
-                </Paragraph>
-            </FlowDocument>
-        </RichTextBox>
-
-    </Grid>
+    <Grid Background="#FF232222"/>
 </Window>
